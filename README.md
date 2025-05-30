@@ -51,6 +51,18 @@ Please visit [https://developer.xgrids.com](https://developer.xgrids.com/#/downl
 - Support color adjustment
 - Support standard 3DGS PLY format file import
 
-## Documentation
+## Release Note
 
-Please visit [https://developer.xgrids.com/#/document](https://developer.xgrids.com/#/document?titleId=en-1720509312452) for detailed documentation.
+[Release Note](https://developer.xgrids.com/#/document?titleId=en-1720509717058)
+
+## Document
+
+Please visit [Document](https://developer.xgrids.com/#/document?titleId=en-1720509312452) for detailed documentation
+
+## Tutorial
+
+Please visit [Tutorial](https://developer.xgrids.com/#/tutorial?page=UE_SDK) Get detailed guidance
+
+## Community
+
+Please visit [Community](https://developer.xgrids.com/#/forum) Engage in communication

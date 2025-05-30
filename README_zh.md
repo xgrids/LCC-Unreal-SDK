@@ -53,6 +53,18 @@ LCC Unreal SDK是其域官方提供的LCC开发套件，支持加载指定目录
 - 支持颜色调整
 - 支持标准3DGS PLY格式文件导入
 
+## 更新日志
+
+[更新日志](https://developer.xgrids.cn/#/document?titleId=cn-1720170723795)
+
 ## 文档
 
-请访问 [https://developer.xgrids.cn/#/document](https://developer.xgrids.cn/#/document?titleId=cn-1720170162723) 获取最新版本插件
+请访问 [文档](https://developer.xgrids.cn/#/document?titleId=cn-1720170162723) 查阅详细文档
+
+## 教程
+
+请访问 [教程](https://developer.xgrids.cn/#/tutorial?page=UE_SDK) 获取详细指导
+
+## 论坛
+
+请访问 [论坛](https://developer.xgrids.cn/#/forum) 进行交流
