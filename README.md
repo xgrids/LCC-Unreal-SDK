@@ -8,7 +8,7 @@ LCC Unreal SDK is the official development kit provided by Xgrids, designed to l
 
 ## How to get?
 
-Please visit [https://developer.xgrids.com](https://developer.xgrids.com/#/download?page=LCC_UNREAL_SDK_UE55) to get the latest SDK.
+Please follow the release of this repository to get the latest SDK.
 
 ## Features
 
